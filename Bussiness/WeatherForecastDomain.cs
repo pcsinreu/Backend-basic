@@ -4,7 +4,7 @@ public class WeatherForecastDomain :IWeatherForecastDomain
 {
     private static readonly string[] Summaries = new[]
     {
-        "Test1", "Tes2", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Test1", "Tes2","test 3"
     };
 
 
